@@ -1,5 +1,5 @@
 import re
-class P:
+class Password:
     def __init__(self):
         self.epassword = ''
     def password(self):
@@ -26,7 +26,7 @@ class P:
         else:
             return False
 
-obj = P()
+obj = Password()
 
         
 

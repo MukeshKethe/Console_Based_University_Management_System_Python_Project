@@ -1,5 +1,5 @@
-from Python_Password_Checker import obj
-from Python_SMTP import mail_verify
+from Password_Checker_Module import obj
+from Secure_OTP_Authentication_System_with_SMTP_Module import mail_verify
 class person:
     def __init__(self,name,roll,mobile,mail):
         self.name = name
