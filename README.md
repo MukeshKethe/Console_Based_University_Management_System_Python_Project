@@ -1,1 +1,1 @@
-Make sure to replace 'Your_Mail_Id' and 'Your_Mail_App_Password' with your actual email ID and the corresponding app password in the code before executing it
+Make sure to replace 'Your_Mail_Id' and 'Your_Mail_App_Password' with your actual email ID and the corresponding app password in the Secure_OTP_Authentication_System_with_SMTP_Module.py File before executing it
