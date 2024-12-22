@@ -9,10 +9,10 @@ def mail_verify(mail):
     smtp_server = 'smtp.gmail.com'
     smtp_port = '587'
 
-    mail_user_name = 'mukeshkethe009@gmail.com'
-    mail_password = 'snbm kmhv cwds xxrs'
+    mail_user_name = 'Your_Mail_Id'
+    mail_password = 'Your_Mail_App_Password'
 
-    from_email = 'mukeshkethe009@gmail.com'
+    from_email = 'Your_Mail_Id'
     to_email = mail
     subject = 'OTP For Validation'
     body = f'OTP for Validation is {otp}'
